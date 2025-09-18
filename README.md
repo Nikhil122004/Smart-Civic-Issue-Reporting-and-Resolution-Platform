@@ -1,5 +1,5 @@
 # Smart-Civic-Issue-Reporting-and-Resolution-Platform
-# Smart Civic Issue Reporting and Resolution Platform
+
 
 ## 📌 Project Overview
 Citizens often face difficulties in reporting and resolving civic issues such as potholes, broken streetlights, waste accumulation, and water supply problems.  
